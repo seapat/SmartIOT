@@ -1,0 +1,11 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "Our http backend server. Probably going to use an REST API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Layer-Reiss + SmartIOT Team",
+  "license": "ISC"
+}

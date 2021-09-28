@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600px"
+   height="150px"
+   viewBox="0 0 600 150"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="logo_inkscape.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sodipodi:namedview
+     id="namedview13177"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.1997092"
+     inkscape:cx="309.81368"
+     inkscape:cy="60.68984"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs13172">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13044">
+      <rect
+         id="rect13046"
+         width="599.10284"
+         height="129.10286"
+         x="20.448566"
+         y="165.44856"
+         style="fill:none;stroke:#000000;stroke-width:0.897133;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13040">
+      <rect
+         id="rect13042"
+         width="603.53052"
+         height="128.15573"
+         x="20.599691"
+         y="164.23479"
+         style="fill:none;stroke:#000000;stroke-width:0.897133;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       class="currentLayer"
+       id="g10"
+       clip-path="url(#clipPath13044)"
+       transform="matrix(0.99171437,0,0,1.0001775,-15.81236,-157.24088)">
+      <title
+         id="title5">Layer 1</title>
+      <path
+         fill="none"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-opacity="1"
+         stroke-width="4"
+         stroke-dasharray="none"
+         stroke-linejoin="round"
+         stroke-linecap="butt"
+         stroke-dashoffset=""
+         fill-rule="nonzero"
+         opacity="1"
+         d="m 473.72382,186.96826 0.79365,89.68254"
+         id="svg_4" />
+      <path
+         fill="none"
+         stroke="#d5d50b"
+         style="color:#000000"
+         stroke-width="5"
+         stroke-linejoin="round"
+         stroke-dashoffset=""
+         fill-rule="nonzero"
+         id="svg_6"
+         d="m 502.00543,201.18714 29.62543,-21.42067 29.62561,21.42067 -11.31207,34.66263 h -36.62195 z"
+         transform="rotate(136.954,531.63,207.808)"
+         opacity="1" />
+      <path
+         fill="none"
+         stroke="#d5d50b"
+         style="color:#000000"
+         stroke-width="5"
+         stroke-linejoin="round"
+         stroke-dashoffset=""
+         fill-rule="nonzero"
+         d="m 541.84668,242.21889 29.62543,-21.42068 29.62561,21.42068 -11.31208,34.6626 H 553.1637 Z"
+         transform="rotate(-43.9902,571.471,248.84)"
+         opacity="1"
+         id="svg_9" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:95.2958px;line-height:1.25;font-family:Staatliches;-inkscape-font-specification:'Staatliches, Normal';font-variant-ligatures:none;stroke-width:0.992666"
+       x="32.590382"
+       y="260.94357"
+       id="text4888"
+       transform="matrix(0.98443884,0,0,1.0075693,-15.81236,-157.24088)"
+       clip-path="url(#clipPath13040)"><tspan
+         id="tspan4886"
+         x="32.590382"
+         y="260.94357"
+         sodipodi:role="line"
+         style="stroke-width:0.992666">QUINTERNITY</tspan></text>
+  </g>
+</svg>

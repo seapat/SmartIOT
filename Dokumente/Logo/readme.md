@@ -1,0 +1,2 @@
+Da svg auf xml basiert benötigt das System die verwendete Schriftart um das Logo richtig anzeigen zu können. <br>
+Hierfür kann man https://fonts.google.com/specimen/Staatliches in das Betriebssystem integrieren und das Bild sollte richtig angezeigt werden.
